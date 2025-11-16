@@ -9,7 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kerem-çekici-628a73267" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="Kerem Çekici"  /></a>
+<a href="www.linkedin.com/in/kerem-çekici-628a73267" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="Kerem_Cekici"  /></a>
+  <a href="https://www.instagram.com/sayiconnn?igsh=M2I3cnFkZGp5aXM5" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="Kerem_Cekici" /></a>
 </p>
 
 <div align="left">
