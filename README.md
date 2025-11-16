@@ -6,6 +6,10 @@
 - 💬 Ask me about **game development, neural networks in C, push_swap, AI**
 - 📫 How to reach me: **keremcek70@gmail.com**
 - ⚡ Fun fact: **I’ve tried building neural networks from scratch in C to solve algorithmic problems like push_swap**
+- 🎨 Hobbies & Interests
+  - 🐧 Exploring Linux and tinkering in the terminal
+  - 🎮 Playing video games
+  - 🎵 Listening to music
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
