@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi 👋, I'm Kerem Çekici
 
-<!--
-**Sayicon/Sayicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I am a developer focused on game and software development, producing projects with C and C#</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Unity, Artificial Neural Network, Machine Learning**
+- 💬 Ask me about **game development, neural networks in C, push_swap, AI**
+- 📫 How to reach me: **keremcek70@gmail.com**
+- ⚡ Fun fact: **I’ve tried building neural networks from scratch in C to solve algorithmic problems like push_swap**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/kerem-çekici-628a73267" target="blank"><img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="Kerem Çekici"  /></a>
+</p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayicon&show_icons=true&locale=en" height="150" alt="sayicon" />
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayicon&" alt="sayicon" height="150" />
+
+</div>
