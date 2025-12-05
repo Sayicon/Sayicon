@@ -18,7 +18,6 @@
 </p>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayicon&show_icons=true&locale=en" height="150" alt="sayicon" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayicon&" alt="sayicon" height="150" />
 
