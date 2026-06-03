@@ -19,6 +19,4 @@
 
 <div align="left">
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sayicon&" alt="sayicon" height="150" />
-
 </div>
