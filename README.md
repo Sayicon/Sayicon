@@ -23,7 +23,6 @@ typedef struct  s_kerem
 - ⚡ Fun fact: **push_swap gibi algoritmik problemleri nöral ağlarla çözmeyi denedim**
 - 🐧 Linux terminali · 🎮 Oyun · 🎵 Müzik · Manga · Anime
 
----
 
 ## Tech Stack
 
