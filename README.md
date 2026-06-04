@@ -1,10 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BABC,100:0d1117&height=200&section=header&text=Kerem%20%C3%87ekici&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%"/>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BABC&center=true&vCenter=true&width=600&lines=42+Kocaeli+%C3%96%C4%9Frencisi+%F0%9F%8F%AB;Sistem+Programlama+%7C+C+%7C+C%23+%7C+Java;Oyun+Geli%C5%9Ftirme+%26+Yapay+Zek%C3%A2;Neuroevolution+%E2%80%94+Neural+Networks+in+C;Linux+%26+Terminal+Tutkunu+%F0%9F%90%A7)](https://git.io/typing-svg)
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sayicon.Sayicon&left_color=00BABC&right_color=0d1117)
 
 </div>
 
@@ -55,11 +51,28 @@ typedef struct  s_kerem
 ## Öne Çıkan Projeler
 
 <div align="center">
-
-<a href="https://github.com/Sayicon/NeuroRace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayicon&repo=NeuroRace&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Sayicon/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayicon&repo=minishell&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Sayicon/push_swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sayicon&repo=push_swap&theme=tokyonight&hide_border=true"/></a>
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sayicon/NeuroRace"><b>🏎️ NeuroRace</b></a><br/>
+      <sub>Evrimleşen AI araçların 3B yarış simülasyonu</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/github/stars/Sayicon/NeuroRace?style=flat-square&color=00BABC"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sayicon/minishell"><b>🐚 minishell</b></a><br/>
+      <sub>Bash benzeri Unix shell implementasyonu</sub><br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/Sayicon/minishell?style=flat-square&color=00BABC"/>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Sayicon/push_swap"><b>🔢 push_swap</b></a><br/>
+      <sub>Stack sıralama — radix sort algoritması</sub><br/><br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/github/stars/Sayicon/push_swap?style=flat-square&color=00BABC"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -72,6 +85,7 @@ typedef struct  s_kerem
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sayiconnn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keremcek70@gmail.com)
 [![42](https://img.shields.io/badge/42-Kocaeli-00BABC?style=for-the-badge)](https://42kocaeli.com.tr/)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sayicon.Sayicon&left_color=00BABC&right_color=555)
 
 </div>
 
