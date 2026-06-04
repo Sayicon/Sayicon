@@ -11,21 +11,21 @@
 ```c
 typedef struct  s_kerem
 {
-    char    *school;      // "42 Kocaeli"
+    char    *school;      // "42 Kocaeli, Kocaeli Üniversitesi, Doğuş Üniversitesi"
+    
     char    *focus[];     // { "Sistem Prog.", "Oyun Geliştirme", "AI/ML" }
-    char    *learning[];  // { "Unity", "Neural Networks", "Machine Learning" }
+    char    *learning[];  // { "Mobil", "Neural Networks", "Machine Learning", "n8n" }
     char    *os;          // "Linux"
     bool    open_source;  // true
 }               t_kerem;
 ```
 
-- 🏫 **Kocaeli Üniversitesi** öğrencisiyim — sistem programlama & algoritmalar
-- 🌱 Şu an öğrendiklerim: **Yapay Sinir Ağları · Machine Learning · Dağıtık Mimari**
-- 🧠 C ile sıfırdan bash yazdım — **[minishell](https://github.com/Sayicon/minishell)**
+- 🏫 **Kocaeli Üniversitesi** öğrencisiyim
 - 💬 Sorabileceğin konular: **C, neural networks, push_swap, game development**
+- 🧠 C ile sıfırdan bash yazdım — **[minishell](https://github.com/Sayicon/minishell)**
 - ⚡ Fun fact: **push_swap gibi algoritmik problemleri nöral ağlarla çözmeyi denedim**
 - 🐧 Linux terminali · 🎮 Oyun · 🎵 Müzik · Manga · Anime
-
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sayicon.Sayicon&left_color=00BABC&right_color=555)
 
 ## Tech Stack
 
@@ -55,6 +55,5 @@ typedef struct  s_kerem
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sayiconnn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keremcek70@gmail.com)
 [![42](https://img.shields.io/badge/42-Kocaeli-00BABC?style=for-the-badge)](https://42kocaeli.com.tr/)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sayicon.Sayicon&left_color=00BABC&right_color=555)
 
 </div>
