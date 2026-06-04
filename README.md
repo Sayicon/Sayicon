@@ -1,15 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BABC,100:0d1117&height=200&section=header&text=Kerem%20%C3%87ekici&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%"/>
-
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BABC&center=true&vCenter=true&width=600&lines=42+Kocaeli+%C3%96%C4%9Frencisi+%F0%9F%8F%AB;Sistem+Programlama+%7C+C+%7C+C%23+%7C+Java;Oyun+Geli%C5%9Ftirme+%26+Yapay+Zek%C3%A2;Neuroevolution+%E2%80%94+Neural+Networks+in+C;Linux+%26+Terminal+Tutkunu+%F0%9F%90%A7)](https://git.io/typing-svg)
-
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sayicon.Sayicon&left_color=00BABC&right_color=0d1117)
-
 </div>
-
----
-
 ## Hakkımda
 
 ```c
