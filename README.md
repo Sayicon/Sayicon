@@ -6,8 +6,6 @@
 
 ---
 
-## Hakkımda
-
 ```c
 typedef struct  s_kerem
 {
@@ -26,10 +24,6 @@ typedef struct  s_kerem
 - 📫 İletişim: **keremcek70@gmail.com**
 - ⚡ Fun fact: **push_swap gibi algoritmik problemleri nöral ağlarla çözmeyi denedim**
 - 🐧 Linux terminali · 🎮 Oyun · 🎵 Müzik
-
----
-
-## Teknoloji Stack'i
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
