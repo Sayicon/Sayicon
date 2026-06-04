@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BABC&center=true&vCenter=true&width=600&lines=42+Kocaeli+%C3%96%C4%9Frencisi+%F0%9F%8F%AB;Sistem+Programlama+%7C+C+%7C+C%23+%7C+Java;Oyun+Geli%C5%9Ftirme+%26+Yapay+Zek%C3%A2;Neuroevolution+%E2%80%94+Neural+Networks+in+C;Linux+%26+Terminal+Tutkunu+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 </div>
-
----
-
 ## Hakkımda
 
 ```c
@@ -19,17 +16,16 @@ typedef struct  s_kerem
 }               t_kerem;
 ```
 
-- 🏫 **42 Kocaeli** öğrencisiyim — sistem programlama & algoritmalar
-- 🌱 Şu an öğrendiklerim: **Unity · Yapay Sinir Ağları · Machine Learning**
-- 🧠 C ile sıfırdan nöral ağ yazdım — **[NeuroRace](https://github.com/Sayicon/NeuroRace)**
-- 💬 Sorabileceğin konular: **C, neural networks, push_swap, game dev**
-- 📫 İletişim: **keremcek70@gmail.com**
+- 🏫 **Kocaeli Üniversitesi** öğrencisiyim — sistem programlama & algoritmalar
+- 🌱 Şu an öğrendiklerim: **Yapay Sinir Ağları · Machine Learning · Dağıtık Mimari**
+- 🧠 C ile sıfırdan bash yazdım — **[minishell](https://github.com/Sayicon/minishell)**
+- 💬 Sorabileceğin konular: **C, neural networks, push_swap, game development**
 - ⚡ Fun fact: **push_swap gibi algoritmik problemleri nöral ağlarla çözmeyi denedim**
-- 🐧 Linux terminali · 🎮 Oyun · 🎵 Müzik
+- 🐧 Linux terminali · 🎮 Oyun · 🎵 Müzik · Manga · Anime
 
 ---
 
-## Teknoloji Stack'i
+## Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -48,34 +44,6 @@ typedef struct  s_kerem
 
 ---
 
-## Öne Çıkan Projeler
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/Sayicon/NeuroRace"><b>🏎️ NeuroRace</b></a><br/>
-      <sub>Evrimleşen AI araçların 3B yarış simülasyonu</sub><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/github/stars/Sayicon/NeuroRace?style=flat-square&color=00BABC"/>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Sayicon/minishell"><b>🐚 minishell</b></a><br/>
-      <sub>Bash benzeri Unix shell implementasyonu</sub><br/><br/>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/Sayicon/minishell?style=flat-square&color=00BABC"/>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/Sayicon/push_swap"><b>🔢 push_swap</b></a><br/>
-      <sub>Stack sıralama — radix sort algoritması</sub><br/><br/>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/github/stars/Sayicon/push_swap?style=flat-square&color=00BABC"/>
-    </td>
-  </tr>
-</table>
-</div>
-
----
 
 ## İletişim
 
@@ -88,5 +56,3 @@ typedef struct  s_kerem
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Sayicon.Sayicon&left_color=00BABC&right_color=555)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00BABC,100:0d1117&height=120&section=footer" width="100%"/>
